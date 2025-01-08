@@ -3,8 +3,8 @@
 </h1>
 
 # Descrição do projeto
-> Este repositório faz parte do desafio de estágio da Saguitech. 
+> Este repositório faz parte do desafio de estágio da Saguitech. O código tem que receber os campos **Valor Venda**, **Itens**, **IRPF**, **PIS**, **COFINS**, **INSS** e **ISSQN**.
 
-# Funcionalidades e Demonstração da Aplicação
+
 
 
